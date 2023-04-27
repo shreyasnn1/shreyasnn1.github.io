@@ -19,11 +19,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hey everyone!
+
 I am <b>Shreyas </b>, an Integrated Dual Degree student at Indian Institute of Technology Madras with a B.Tech in Mechanical Engineering and an M.Tech in Robotics. I also have a minor in Computing. 
 
 My interests lie in Deep Learning and Computer Vision and I'm currently working under Prof. AN Rajagopalan @ Image Processing and Computer Vision (IPCV) Lab, IIT Madras. I am a highly passionate coder and have also dabbled in competitive programming. I love solving puzzles and racking my brain on tough problems. 
 
-I enjoy playing Ultimate Frisbee and Football in my spare time. 
+I am an avid cricket fan and enjoy playing Ultimate Frisbee and Football in my spare time. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
